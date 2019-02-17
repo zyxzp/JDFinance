@@ -20,7 +20,7 @@
     }
 </script>
 
-<style lang="scss" module>
+<style lang="scss">
 @import '../../css/element.scss';
 .btn{
   @include btn;

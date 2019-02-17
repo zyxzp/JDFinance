@@ -9,6 +9,7 @@
   text-align: center;
   line-height: 1;
   display: inline-block; 
+  color:$color;
 }
 @mixin list($direction:column) {
     @include flex($direction);    

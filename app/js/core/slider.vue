@@ -44,6 +44,6 @@ import {swiper,swiperSlide} from "vue-awesome-swiper"
     }
 </script>
 
-<style scoped>
-
+<style lang="css">
+@import "~swiper/dist/css/swiper.css";
 </style>
